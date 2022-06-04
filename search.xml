@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>如何给显卡CPU升级驱动</title>
+      <link href="/posts/6f5cbd82/"/>
+      <url>/posts/6f5cbd82/</url>
+      
+        <content type="html"><![CDATA[<div class="note primary no-icon flat"><p>本文章仅说明如何升级驱动，不带有任何专业性知识，仅供参考。本文章针对英特尔、英伟达和AMD讲解更新驱动方法，仅作文字教程记录，如果看不懂自行百度查询详细教程。</p></div><h2 id="英特尔（Intel）"><a href="#英特尔（Intel）" class="headerlink" title="英特尔（Intel）"></a>英特尔（Intel）</h2><p>一般<strong>英特尔的CPU都是自带核显</strong>。更新英特尔的驱动有个非常简单的官方方法。浏览器打开英特尔的官网，<a href="http://www.intel.com/">http://www.intel.com</a>。点击上面的<mark class="hl-label pink">支持</mark> 再点击<mark class="hl-label orange">自动更新您的驱动程序</mark> ，然后下载<code>英特尔驱动程序和支持助手</code>。</p><p>安装后，<strong>在电脑右下角任务栏的图标上双击就会打开浏览器</strong>，并寻找驱动更新。如果<strong>电脑上有Intel的CPU、核显以及其它的Intel设备更新都会列出来</strong>。</p><p>点击<mark class="hl-label orange">下载</mark> ，再点击<mark class="hl-label green">安装</mark> 就行了。</p><h2 id="英伟达（Nvidia）"><a href="#英伟达（Nvidia）" class="headerlink" title="英伟达（Nvidia）"></a>英伟达（Nvidia）</h2><p>英伟达同样有个非常简单的更新方法，那就是用随驱动安装的<code>GeForce Experience</code>这个软件。</p><p>打开软件就可以看到左上角<mark class="hl-label green">驱动程序</mark> 这个选项。</p><p>如果有新的显卡驱动就会在这里提示点击<mark class="hl-label purple">快速安装</mark> 按钮就会自动更新显卡驱动了。并且下面还会有详细的更新说明。</p><p>点击右上角的<strong>三个点</strong>。还可以根据需求，选择<code>针对游戏</code>或者<code>图形制作</code>的最佳驱动。</p><h2 id="AMD"><a href="#AMD" class="headerlink" title="AMD"></a>AMD</h2><p>由于AMD又有CPU又有独立显卡，所以放到最后一起说。浏览器打开AMD的官网<a href="http://www.amd.com/">http://www.amd.com</a>。然后点击<mark class="hl-label green">驱动与支持</mark> 。</p><p>下载<strong>自动检测软件</strong>。安装后就可以<strong>自动更新驱动</strong>了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 🔍技巧杂烩 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 🔍技巧 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>小铁块的成长日志</title>
       <link href="/posts/9a0f925/"/>
       <url>/posts/9a0f925/</url>
